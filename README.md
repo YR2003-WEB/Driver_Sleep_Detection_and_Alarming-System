@@ -27,6 +27,11 @@ Software: Python, OpenCV, dlib
 
 Models: Haar Cascade Classifier, 68 Facial Landmark Predictor
 
+Result 
+
+<img width="705" height="397" alt="image" src="https://github.com/user-attachments/assets/1db793fa-a8d2-4f1b-b82d-3af43d2dee6f" />
+
+
 📘 Documentation
 
 For detailed system architecture, algorithms, flowcharts, results, and performance analysis, refer to the project report document included in this repository.
